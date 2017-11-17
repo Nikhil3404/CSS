@@ -1,0 +1,221 @@
+p{
+font-size:20px;
+font-family:calibri;
+border:50px;
+
+}
+
+body{
+    background-image: url(14.jpg);
+    
+    color:black;
+    font-size:30px;
+   
+}
+
+ul {
+list-style: none;
+
+}
+
+a:link,a:visited
+{
+text-decoration:none;
+font-family:calibri;
+background-color:black;
+color:black;
+border: 2px solid red;
+text-align:center;
+border-radius:5px ;
+margin :20px;
+padding:10px;
+}
+
+
+p1
+{
+    font-size:20px;
+font-family:calibri;
+   
+
+    color: black;
+    text-align: center;
+     
+    
+}
+p2
+{
+      font-size:20px;
+font-family:calibri;
+   
+
+    color:black;
+    text-align: center;
+     
+}
+p3
+{
+    font-size:20px;
+font-family:calibri;
+  
+
+    color: black;
+    text-align: center;
+    
+}
+h4{
+font-size:50px;
+color:red;
+font-style:arial;
+}
+.nikhil
+{
+
+float: left ;
+background-color:white;
+width: 355px;
+height:200px;
+}
+header
+{
+ padding: 1em;
+    font-size: 40px;
+    color: black;
+    background-image: url(14.jpg);
+    clear: left;
+    text-align: right;
+    border: 5px red double;
+    margin: 0px;
+        
+}
+.nikhil
+footer
+{
+    padding: 1em;
+    color: white;
+    background-color: black;
+    text-align:center;
+    font-size: 30px;
+    clear: left;
+    border:1px red double;
+}
+
+.sidebar{
+	width: 200px;
+	float:left;
+	background:silver;
+	padding:20px;
+}
+ul {
+list-style: none;
+
+}
+
+ul li 
+{
+
+}
+ul li a 
+{
+text-decoration:none;
+font-family:calibri;
+background-color:greenyellow;
+color:black;
+border: 2px solid blue;
+text-align:center;
+border-radius:5px ;
+margin :20px;
+padding:10px;
+}
+.sidenav {
+     background-image: url('15.jpg');
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: black;
+    overflow-x: hidden;
+    padding-top: 2n0px;
+}
+
+.sidenav a {
+   
+    padding: 6px 6px 6px 32px;
+    text-decoration: none;
+    font-size: 20px;
+    color: lightcoral;
+    display: block;
+    font-family:sans-serif;
+}
+
+
+.sidenav a:hover {
+    color: greenyellow;
+}
+.sidenav1 {
+    background-image: url('15.jpg');
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: black;
+    overflow-x: hidden;
+    padding-top: 0px;
+}
+
+.sidenav1 a{
+    padding: 6px 6px 6px 32px;
+    text-decoration: none;
+    font-size: 20px;
+    color: lightcoral;
+    display: block;
+    font-family:sans-serif;
+}
+
+
+.sidenav1 a:hover {
+    color: greenyellow;
+}
+.main {
+    margin-left: 200px;
+    margin-right: 200px;/* Same as the width of the sidenav1 */
+}
+
+.menu{
+    width:100%;
+   
+    overflow:auto;
+}
+.menu ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+    line-height:60px;
+}
+.menu li{
+    float:right;
+}
+.menu ul li a{
+    background-color: black;
+    text-decoration:none;
+    width:130px;
+    display:block;
+    text-align:center;
+    color:#f2f2f2;
+    font-size:18px;
+    font-family:sans-serif;
+    letter-spacing:0.5px;
+}
+.menu li a:hover {
+    color:greenyellow;
+   
+    
+}
+
+
+
+
